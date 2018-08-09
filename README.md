@@ -1,7 +1,7 @@
 # Email-Opened-Tracker
 Email Opened Tracker
 
-<img src="q.jpg">
+<img src="q.JPG">
 
 Piye Cara Gawene ?
 
